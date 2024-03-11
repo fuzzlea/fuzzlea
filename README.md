@@ -28,7 +28,7 @@ Hello!
   - JavaScript (ES5)
   
 - Achievments:
-  - Designed / Created Logos For a Federal Campaign (https://www.adamgillard4congress.us/)
+  - Designed / Created Logos For a Congressional Campaign (https://www.adamgillard4congress.us/)
   - Payed to Design and Create Logos For Different Freelance Jobs
   - Created Games In JavaScript ES5
   - Created Games In Lua(U) Using Roblox Studio
