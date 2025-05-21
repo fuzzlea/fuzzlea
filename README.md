@@ -20,7 +20,8 @@ Hey! I'm a 17-year-old software engineer focused on game development and full-st
 # 🚧 Current Projects
 
 - 🧑‍🏫 **Weave** – A web app for student-teacher collaboration  
-- 🎮 **Wayback** – A platform for hosting student-made games  
+- 🎮 **Wayback** – A platform for hosting student-made games
+- 🎨 **Portfolio** – A personal portfolio
 - 🏁 **Nexteer '25** – Built for the Nexteer Coding Challenge
 
 ---
