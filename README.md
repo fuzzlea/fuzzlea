@@ -3,7 +3,7 @@
 Hey! I'm a 17-year-old software engineer focused on game development and full-stack web apps. I love turning ideas into interactive experiences—whether it's building a classroom tool or designing a new game.
 
 - 🎮 Accredited game dev and full-stack web dev
-- 💡 Always exploring new tech and creative problem-solving
+- 💡 Always exploring innovative tech
 - 🤝 Big fan of collaborative projects and involvement
 
 ---
