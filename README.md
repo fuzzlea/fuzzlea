@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hey! I'm a 17-year-old software engineer focused on game development and full-stack web apps. I love turning ideas into interactive experiences—whether it's building a classroom tool or designing a new game.
+Hey! I'm a 18-year-old software engineer focused on game development and full-stack web apps. I love turning ideas into interactive experiences—whether it's building a classroom tool or designing a new game.
 
 - 🎮 Accredited game dev and full-stack web dev
 - 💡 Always exploring innovative tech
@@ -19,10 +19,10 @@ Hey! I'm a 17-year-old software engineer focused on game development and full-st
 
 # 🚧 Current Projects
 
-- 🧑‍🏫 **Weave** – A web app for student-teacher collaboration  
-- 🎮 **Wayback** – A platform for hosting student-made games
-- 🎨 **Portfolio** – A personal portfolio
-- 🏁 **Nexteer '25** – Built for the Nexteer Coding Challenge
+- 🧑‍🏫 **Weave** – A web app for student-teacher collaboration
+- 🔐 **FortiPass** –  A local web app ran on a Raspberry PI to physically protect passwords
+- 🎮 **BPA S.E.T '25-'26** – A game for BPA's 2025-2026 Software Engineering Team Event
+- 🎨 **BPA W.A.T '25-'26** – A web app for BPA's 2025-2026 Web App Team Event
 
 ---
 
