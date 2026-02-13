@@ -47,6 +47,6 @@ Tools & Collaboration:
 
 # 📫 Contact
 
-- Email: business.ajgillard@gmail.com
+- Email: business@llea.me
 - YouTube: [fuzzlea](https://youtube.com/fuzzlea)
 - LinkedIn: [AJ Gillard](https://www.linkedin.com/in/aaron-gillard-670343342/) 
