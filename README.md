@@ -2,6 +2,8 @@
   <img src="flowa.gif" width="900" height="100" alt="" />
 </p>
 
-building games and business tools.
+<p align="center">
+  [email](mailto:business@llea.me) · [youtube](https://youtube.com/fuzzlea) · [linkedin](https://www.linkedin.com/in/aaron-gillard-670343342/)
+</p>
 
-[email](mailto:business@llea.me) · [youtube](https://youtube.com/fuzzlea) · [linkedin](https://www.linkedin.com/in/aaron-gillard-670343342/)
+
