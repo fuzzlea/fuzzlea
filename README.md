@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  [email](mailto:business@llea.me) · [youtube](https://youtube.com/fuzzlea) · [linkedin](https://www.linkedin.com/in/aaron-gillard-670343342/)
+  <a href="mailto:business@llea.me" >email</a>
+  <a href="https://www.linkedin.com/in/aaron-gillard-670343342/">linkedin</a>
 </p>
 
 
