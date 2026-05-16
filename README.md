@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:business@llea.me" style="color: white" >𝔢𝔪𝔞𝔦𝔩</a>
-  <a href="https://www.linkedin.com/in/aaron-gillard-670343342/" style="color: white" >𝔩𝔦𝔫𝔨𝔢𝔡𝔦𝔫</a>
+  <a href="mailto:business@llea.me" style="color:#ffffff" >𝔢𝔪𝔞𝔦𝔩</a>
+  <a href="https://www.linkedin.com/in/aaron-gillard-670343342/" style="color:#ffffff" >𝔩𝔦𝔫𝔨𝔢𝔡𝔦𝔫</a>
 </p>
 
 
