@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="flowa.gif" width="900" alt="" />
+  <img src="flowa.gif" width="900" height="100" alt="" />
 </p>
 
 building games and business tools.
